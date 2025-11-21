@@ -31,7 +31,7 @@ const Hero: React.FC = () => {
           </h1>
           
           <p className="text-gray-300 text-lg md:text-xl mb-10 max-w-xl leading-relaxed opacity-0 animate-fade-in-up" style={{ animationDelay: '0.5s' }}>
-            Especialistas en asesoramiento y venta de neumáticos de alta performance en Córdoba. 
+            Somos especialistas en asesoramiento y venta de neumáticos de alta performance en Córdoba. 
             Seguridad, tecnología y el mejor agarre para tu vehículo.
           </p>
 
