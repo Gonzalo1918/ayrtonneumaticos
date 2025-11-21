@@ -7,7 +7,7 @@ const Hero: React.FC = () => {
       {/* Background Image */}
       <div className="absolute inset-0">
         <img 
-          src="https://images.unsplash.com/photo-1611566026373-c6c85447dbdc?q=80&w=2670&auto=format&fit=crop"
+          src="/images/logo_ayrtonneumaticos_sin_fondo.png"
           alt="Fondo Ayrton Neumáticos"
           className="w-full h-full object-cover"
           loading="eager"
