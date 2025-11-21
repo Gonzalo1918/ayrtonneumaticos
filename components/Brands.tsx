@@ -11,22 +11,22 @@ const Brands: React.FC = () => {
     {
       id: 'fate',
       name: 'Fate',
-      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Fate_logo.png/1200px-Fate_logo.png',
+      logo: '/images/logo_fate.png',
     },
     {
       id: 'pirelli',
       name: 'Pirelli',
-      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pirelli_logo.svg/2560px-Pirelli_logo.svg.png',
+      logo: '/images/logo_pirelli.png',
     },
     {
       id: 'michelin',
       name: 'Michelin',
-      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Michelin_Logo.svg/2560px-Michelin_Logo.svg.png',
+      logo: '/images/logo_michelin.png',
     },
     {
       id: 'bfgoodrich',
       name: 'BFGoodrich',
-      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BFGoodrich_logo.svg/2560px-BFGoodrich_logo.svg.png',
+      logo: '/images/logo_michelin.png',
     },
     {
       id: 'windforce',
@@ -36,7 +36,7 @@ const Brands: React.FC = () => {
     {
       id: 'westlake',
       name: 'Westlake',
-      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Westlake_Tyres_logo.png/640px-Westlake_Tyres_logo.png',
+      logo: '/images/logo_westlake.png',
     }
   ];
 
